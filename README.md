@@ -11,12 +11,6 @@ If you decide you don't want to use these progress bars, you can simply replace 
 
 Feel free to edit the script to your liking, but please do not share or release your edited versions anywhere without first getting my permissions.
 
-All the scripts I make are free of charge, but if you decide you do want to support me and my work you can buy the script through my tebex <a href='https://aurorashop.tebex.io/package/4250224'>store</a>.
-
-Your support will go a long way of helping me make more fun scripts that are free of charge.
-
-You can download the script <a href='https://github.com/LukeWasTakenn/luke_chopshop/archive/master.zip'>here</a>
-
 <h2>How to install</h2>
 1. Remove the -master from the name<br>
 2. Place the folder into your resources folder<br>
